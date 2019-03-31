@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.dfd80be1.chunk.css",
-  "main.js": "/static/js/main.6108d9e4.chunk.js",
-  "main.js.map": "/static/js/main.6108d9e4.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.648666f7.chunk.js": "/static/js/2.648666f7.chunk.js",
-  "static/js/2.648666f7.chunk.js.map": "/static/js/2.648666f7.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.2c0fe1586597f2ba52ee7d2087107dba.js": "/precache-manifest.2c0fe1586597f2ba52ee7d2087107dba.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.dfd80be1.chunk.css.map": "/static/css/main.dfd80be1.chunk.css.map"
+  "main.css": "/fe-studio-video-mask/static/css/main.dfd80be1.chunk.css",
+  "main.js": "/fe-studio-video-mask/static/js/main.56dbb887.chunk.js",
+  "main.js.map": "/fe-studio-video-mask/static/js/main.56dbb887.chunk.js.map",
+  "runtime~main.js": "/fe-studio-video-mask/static/js/runtime~main.92349174.js",
+  "runtime~main.js.map": "/fe-studio-video-mask/static/js/runtime~main.92349174.js.map",
+  "static/js/2.648666f7.chunk.js": "/fe-studio-video-mask/static/js/2.648666f7.chunk.js",
+  "static/js/2.648666f7.chunk.js.map": "/fe-studio-video-mask/static/js/2.648666f7.chunk.js.map",
+  "index.html": "/fe-studio-video-mask/index.html",
+  "precache-manifest.79e64803f764bf703342f975ed45c814.js": "/fe-studio-video-mask/precache-manifest.79e64803f764bf703342f975ed45c814.js",
+  "service-worker.js": "/fe-studio-video-mask/service-worker.js",
+  "static/css/main.dfd80be1.chunk.css.map": "/fe-studio-video-mask/static/css/main.dfd80be1.chunk.css.map"
 }
