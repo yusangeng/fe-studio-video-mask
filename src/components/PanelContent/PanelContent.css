@@ -1,0 +1,9 @@
+.panel-content {
+  position: absolute;
+  bottom: 60px;
+  right: 72px;
+}
+
+.icon-wrap {
+  margin-right: 8px;
+}

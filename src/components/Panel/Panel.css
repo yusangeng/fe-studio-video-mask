@@ -1,0 +1,13 @@
+.panel {
+  background-color: black;
+  position: absolute;
+  right: 48px;
+  bottom: 48px;
+  width: 300px;
+  height: 60px;
+  opacity: 0.5;
+}
+
+.panel-client-area {
+  margin: 24px;
+}
